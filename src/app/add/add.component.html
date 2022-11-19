@@ -1,0 +1,9 @@
+<div class="form-group">
+  <label for="Id"></label>
+  <input type="number" class="form-control" [(ngModel)]="etudiant.id" name="id" id="id"  placeholder="" >
+  <label for="Nom"></label>
+  <input type="text" class="form-control" [(ngModel)]="etudiant.nom" name="nom" id="nom"  placeholder="" >
+  <label for="Prenom"></label>
+  <input type="text" class="form-control" [(ngModel)]="etudiant.prenom" name="prenom" id="prenom"  placeholder="" >
+  <button type="submit" (click)="addEtudiant()"></button>
+</div>

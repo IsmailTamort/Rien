@@ -1,0 +1,14 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "ali",
+      "prenom": "typicode"
+    },
+    {
+      "id": 2,
+      "nom": "sdfsdf",
+      "prenom": "asdfasdf"
+    }
+  ]
+}
